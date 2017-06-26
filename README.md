@@ -5,3 +5,5 @@ NOTE: You need to build Capstone Engine for iOS and copy libcapstone.a to projec
 
 
 *THIS IS ONLY A PoC CODE. I DON'T TAKE ANY RESPONSIBILITY FOR POTENTIAL ISSUE OR PROVIDE ANY KIND OF HELP TO ITS USERS. THANK YOU.*
+
+*我没有兴趣为黑灰产的脑残工作提供任何技术支持。请勿开Issue骚扰。谢谢*
